@@ -1,0 +1,169 @@
+{
+  "site": {
+    "title": "zhizheng's profilo",
+    "description": "Frontend Engineer focused on React and Web Components development"
+  },
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "projects": "Projects",
+    "resume": "Resume",
+    "about": "About"
+  },
+  "search": {
+    "placeholder": "Search content...",
+    "noResults": "No results found",
+    "searching": "Searching...",
+    "results": "Search Results"
+  },
+  "blog": {
+    "title": "Technical Blog",
+    "description": "7 articles included in Songshan Lake Developer Community and Open Atom, with 240K+ views and 1K+ followers on CSDN",
+    "readMore": "Read full article",
+    "publishedOn": "Published on",
+    "tags": "Tags",
+    "relatedPosts": "Related Posts"
+  },
+  "project": {
+    "title": "Project Showcase",
+    "description": "My open source contributions and personal works",
+    "viewProject": "View Project",
+    "sourceCode": "Source Code",
+    "liveDemo": "Live Demo",
+    "technologies": "Technologies Used",
+    "features": "Key Features"
+  },
+  "resume": {
+    "title": "Professional Resume",
+    "description": "Frontend Engineer, Meta Frontend Certified, currently studying at University of Limerick, Ireland",
+    "download": "Download PDF",
+    "print": "Print Resume",
+    "experience": "Work Experience",
+    "education": "Education",
+    "skills": "Professional Skills",
+    "languages": "Language Proficiency",
+    "certifications": "Professional Certifications",
+    "contact": "Contact Information"
+  },
+  "footer": {
+    "copyright": "© {year} Zhi Zheng. All rights reserved",
+    "poweredBy": "Developed by Zhi Zheng",
+    "links": "Quick Navigation",
+    "socialMedia": "Social Media",
+    "about": "About this site",
+    "resources": "Related Resources",
+    "subscribe": "Subscribe for Updates",
+    "emailPlaceholder": "Enter your email",
+    "subscribeCTA": "Subscribe Now"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "backToHome": "Back to Home",
+    "viewAll": "View All",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  },
+  "hero": {
+    "title": "Zhi Zheng - Frontend Engineer",
+    "subtitle": "MSc in Software Engineering at University of Limerick, Ireland. Specializing in React and Web Components development",
+    "blog": "Read Blog",
+    "projects": "Explore Projects",
+    "avatarAlt": "Profile Photo",
+    "badgeText": "Frontend Engineer",
+    "newBadgeText": "Meta Frontend Certified"
+  },
+  "features": {
+    "title": "Professional Skills",
+    "performance": {
+      "title": "Frontend Development",
+      "description": "Using TypeScript, React Hooks and functional components to implement type-safe frontend architecture. Building responsive UI with TailwindCSS"
+    },
+    "security": {
+      "title": "Backend Development",
+      "description": "Building high-concurrency Node.js services, designing MongoDB data models, JWT authentication systems, and RESTful API standards"
+    },
+    "development": {
+      "title": "Component Development",
+      "description": "Developing standardized Web Components for cross-framework reuse, building high-performance component libraries with StencilJS, included in Stencil Community"
+    },
+    "i18n": {
+      "title": "Engineering Practices",
+      "description": "Configuring GitHub Actions for CI/CD automation, using pnpm workspace for Monorepo management, proficient in Linux development environment"
+    },
+    "rapidDev": {
+      "title": "Academic Background",
+      "description": "Pursuing MSc in Software Engineering at University of Limerick, awarded Outstanding Master Admission Scholarship, Chongqing Outstanding Graduate"
+    },
+    "pluginSystem": {
+      "title": "Competition Experience",
+      "description": "9th CCPC Chongqing Third Prize, European PythonCon conference volunteer, IrlCPC (Irish Programming Contest) 2024 training"
+    },
+    "themeSupport": {
+      "title": "Community Activities",
+      "description": "Member of University of Limerick Computer Society, former President of College Software Society and Department Head of Computer Society"
+    }
+  },
+  "projectShowcase": {
+    "title": "Featured Projects",
+    "viewDemo": "View Demo",
+    "githubRepo": "GitHub Repo",
+    "technologies": "Tech Stack",
+    "keyFeatures": "Core Features"
+  },
+  "quickStart": {
+    "title": "About Me",
+    "install": {
+      "title": "Development Focus",
+      "description": "Focused on modern frontend tech stack, specializing in React and Web Components, proficient in MERN full-stack development"
+    },
+    "configure": {
+      "title": "Technical Contributions",
+      "description": "PR#2828 merged into OpenWebComponent project, fixing router module compatibility issues and optimizing the toolchain"
+    },
+    "deploy": {
+      "title": "Meta Certification",
+      "description": "Obtained Meta Frontend Developer Certification, possessing professional frontend development skills and knowledge"
+    },
+    "getStarted": "View My Resume",
+    "installDeno": {
+      "title": "Frontend Stack",
+      "code": "React, TypeScript, TailwindCSS, StencilJS, Web Components"
+    },
+    "createProject": {
+      "title": "Backend Stack",
+      "code": "Node.js, Express, MongoDB, JWT, OAuth, Socket.io"
+    },
+    "startDev": {
+      "title": "Engineering Tools",
+      "code": "GitHub Actions, Vite, pnpm, Monorepo, Docker, Nginx"
+    }
+  },
+  "latestBlog": {
+    "title": "Technical Articles",
+    "readMore": "Read Full Article",
+    "noPosts": "No blog posts yet"
+  },
+  "latest": {
+    "title": "Latest Updates",
+    "blog": "Recent Articles",
+    "project": "New Projects",
+    "noBlog": "No blog posts yet. Start creating!",
+    "noProject": "No projects to showcase. Add your first project"
+  },
+  "read": {
+    "more": "Continue Reading"
+  },
+  "view": {
+    "project": "View Project"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Have questions or collaboration ideas? Reach out at zhizheng@z-js.dev or call +86 13370765023",
+    "button": "Send Email"
+  },
+  "error": {
+    "title": "Page Not Found",
+    "backHome": "Back to Home"
+  }
+}

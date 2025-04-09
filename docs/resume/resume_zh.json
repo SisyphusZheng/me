@@ -1,0 +1,315 @@
+{
+  "resume": {
+    "basics": {
+      "name": "郑治",
+      "label": "前端工程师 | Meta前端认证",
+      "picture": "/assets/profile.jpg",
+      "email": "zhizheng@z-js.dev",
+      "phone": "13370765023",
+      "website": "https://air.js.org",
+      "summary": "爱尔兰利莫瑞克大学软件工程硕士在读，专注于现代前端技术栈开发，擅长React和Web Components方向。熟悉MERN全栈开发，具有丰富的组件库开发和工程化经验。获得Meta前端开发者认证，多个开源项目被Stencil Community官方收录。CSDN博客7篇被松山湖开发者社区与开放原子收录，浏览量240K+，粉丝1K+。",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "爱尔兰利莫瑞克",
+        "countryCode": "IE"
+      },
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "SisyphusZheng",
+          "url": "https://github.com/SisyphusZheng"
+        },
+        {
+          "network": "Dev.to",
+          "username": "SisyphusZheng",
+          "url": "https://dev.to/SisyphusZheng"
+        },
+        {
+          "network": "CSDN",
+          "username": "alien",
+          "url": "https://alien.blog.csdn.net"
+        }
+      ]
+    },
+    "education": [
+      {
+        "institution": "爱尔兰利莫瑞克大学",
+        "area": "软件工程",
+        "studyType": "硕士",
+        "startDate": "2023-09-01",
+        "endDate": "2026-01-31",
+        "gpa": "优秀硕士奖学金获得者",
+        "courses": [
+          "软件质量",
+          "软件进化",
+          "人机交互(HCI)",
+          "项目管理",
+          "软件架构"
+        ]
+      },
+      {
+        "institution": "重庆大学城市科技学院",
+        "area": "软件工程",
+        "studyType": "本科",
+        "startDate": "2018-09-01",
+        "endDate": "2022-06-30",
+        "gpa": "优秀毕业生",
+        "courses": [
+          "编程技术(92%)",
+          "算法分析(97%)",
+          "Linux基础(91%)",
+          "高级编程技术(91%)"
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Meta前端开发者认证",
+        "issuer": "Meta (Facebook)",
+        "date": "2023-12-01",
+        "url": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "前端开发",
+        "level": "高级",
+        "keywords": [
+          "TypeScript",
+          "React",
+          "React Hooks",
+          "Zustand",
+          "Axios",
+          "TailwindCSS",
+          "daisyUI",
+          "Vite",
+          "Web Components",
+          "StencilJS"
+        ]
+      },
+      {
+        "name": "后端开发",
+        "level": "中级",
+        "keywords": [
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "RESTful API",
+          "JWT",
+          "OAuth",
+          "Socket.io",
+          "Postman"
+        ]
+      },
+      {
+        "name": "工程化",
+        "level": "中级",
+        "keywords": [
+          "Monorepo",
+          "Git",
+          "Git Flow",
+          "GitHub Actions",
+          "Docker",
+          "Vite",
+          "Linux(Gentoo)",
+          "Nginx",
+          "Bash/Fish",
+          "pnpm workspace",
+          "Tree Shaking"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "中文",
+        "fluency": "母语"
+      },
+      {
+        "language": "英语",
+        "fluency": "流利"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Air组件库",
+        "description": "基于StencilJS与TailwindCSS构建的现代化Web Components组件库",
+        "highlights": [
+          "采用Figma进行UI/UX设计，实现设计系统与组件开发的高度统一",
+          "通过GitHub Actions配置CI/CD自动化部署流程",
+          "集成Jest进行单元测试与组件快照测试",
+          "项目已收录于Stencil Community官方生态",
+          "为开发者提供开箱即用的高质量Web Components解决方案",
+          "开发标准化Web Components实现跨框架复用"
+        ],
+        "keywords": [
+          "StencilJS",
+          "TypeScript",
+          "TailwindCSS",
+          "Web Components",
+          "Figma",
+          "GitHub Actions",
+          "Jest"
+        ],
+        "url": "https://air.js.org",
+        "roles": ["主要开发者"],
+        "type": "开源项目"
+      },
+      {
+        "name": "实时聊天应用",
+        "description": "基于MERN技术栈开发的即时通讯系统",
+        "highlights": [
+          "集成GitHub OAuth 2.0认证实现安全登录",
+          "采用Socket.io构建实时消息传输功能",
+          "实现亮/暗双主题切换、在线用户状态实时显示等核心功能",
+          "前端使用Vite + daisyUI + Tailwind CSS构建响应式界面",
+          "后端通过JWT进行身份验证，并部署于Nginx服务器",
+          "设计MongoDB数据模型和聚合查询",
+          "开发RESTful API接口规范",
+          "项目涵盖全栈开发全流程，包括环境变量配置、生产环境部署及性能优化"
+        ],
+        "keywords": [
+          "React",
+          "MongoDB",
+          "Express",
+          "Node.js",
+          "Socket.io",
+          "OAuth",
+          "JWT",
+          "Vite",
+          "TailwindCSS",
+          "daisyUI",
+          "Zustand",
+          "Axios"
+        ],
+        "url": "https://cchat.chat",
+        "roles": ["全栈开发者"],
+        "type": "个人项目"
+      },
+      {
+        "name": "FreshPress",
+        "description": "现代化静态网站生成器",
+        "highlights": [
+          "提供简洁的API和易用的CLI",
+          "支持插件和主题系统",
+          "构建高性能的静态网站",
+          "使用pnpm workspace管理Monorepo",
+          "配置Vite实现Tree Shaking方案",
+          "部署在Linux服务器上"
+        ],
+        "keywords": [
+          "TypeScript",
+          "静态站点生成器",
+          "Vite",
+          "pnpm",
+          "Linux",
+          "Nginx"
+        ],
+        "roles": ["主要开发者"],
+        "type": "个人项目",
+        "url": "https://zhizheng.profilo"
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "利莫瑞克大学计算机社团",
+        "position": "成员",
+        "website": "",
+        "startDate": "2023-09-01",
+        "endDate": "2025-01-31",
+        "summary": "参与欧洲PythonCon会议志愿者工作，IrlCPC(爱尔兰程序设计)2024集训"
+      },
+      {
+        "organization": "学院软件社团与计算机社团",
+        "position": "软社社长,计社部长",
+        "website": "",
+        "startDate": "2020-09-01",
+        "endDate": "2021-06-30",
+        "summary": "协助教研室CCPC&蓝桥杯集训,校内赛WebDev培训,工作室"
+      }
+    ],
+    "awards": [
+      {
+        "title": "爱尔兰利莫瑞克大学优秀硕士录取奖学金",
+        "date": "2023-09-01",
+        "awarder": "爱尔兰利莫瑞克大学",
+        "summary": "在竞争激烈的国际生申请中脱颖而出，获得学校提供的优秀录取奖学金"
+      },
+      {
+        "title": "重庆市优秀毕业生",
+        "date": "2022-06-01",
+        "awarder": "重庆市教育委员会",
+        "summary": "基于在校综合表现和学术成绩，被评为重庆市优秀毕业生"
+      },
+      {
+        "title": "第九届CCPC重庆市三等奖",
+        "date": "2018-06-01",
+        "awarder": "CCPC组委会",
+        "summary": "在程序设计竞赛中展示出优秀的编程和解题能力"
+      },
+      {
+        "title": "重庆城市科技学院优秀毕业生",
+        "date": "2022-06-01",
+        "awarder": "重庆城市科技学院",
+        "summary": "在校期间表现优异，综合素质全面"
+      },
+      {
+        "title": "重庆城市科技学院优秀学共青团干与学干",
+        "date": "连续四年",
+        "awarder": "重庆城市科技学院",
+        "summary": "长期在学生组织中担任领导职务，并做出突出贡献"
+      },
+      {
+        "title": "重庆城市科技学院综测奖学金",
+        "date": "连续三年",
+        "awarder": "重庆城市科技学院",
+        "summary": "学业成绩优异，综合素质评测名列前茅"
+      }
+    ],
+    "publications": [
+      {
+        "name": "技术博客",
+        "publisher": "CSDN",
+        "releaseDate": "",
+        "website": "https://alien.blog.csdn.net",
+        "summary": "7篇收录在松山湖开发者社区与开放原子，浏览量240K+，粉丝1K+，内容涵盖前端开发、Web组件设计、全栈应用架构等领域"
+      }
+    ],
+    "contributions": [
+      {
+        "name": "OpenWebComponent",
+        "description": "PR#2828合并到OpenWebComponent项目，修复路由模块兼容性问题，优化工具链",
+        "url": "https://github.com/open-wc/open-wc/pull/2828"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Web前端技术",
+        "keywords": ["Web Components", "React生态", "前端工程化", "UI/UX设计"]
+      },
+      {
+        "name": "开源贡献",
+        "keywords": ["组件库开发", "文档贡献", "Bug修复"]
+      },
+      {
+        "name": "全栈开发",
+        "keywords": ["MERN技术栈", "实时应用", "身份验证"]
+      }
+    ]
+  },
+  "pageTitle": "简历 - zhizheng's profilo",
+  "pageDescription": "郑治的个人简历 - 前端工程师",
+  "printResume": "打印简历",
+  "sections": {
+    "education": "教育背景",
+    "certifications": "专业认证",
+    "skills": "专业技能",
+    "languages": "语言能力",
+    "projects": "项目经验",
+    "volunteer": "社团经历",
+    "awards": "荣誉证书",
+    "publications": "技术博客",
+    "contributions": "开源贡献",
+    "interests": "专业兴趣"
+  }
+}

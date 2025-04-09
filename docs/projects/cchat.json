@@ -1,0 +1,32 @@
+{
+  "id": "cchat",
+  "slug": "cchat",
+  "title": "Real-time Chat Application",
+  "description": "基于MERN技术栈开发的即时通讯系统",
+  "image": "https://cchat.chat",
+  "githubUrl": "https://github.com/SisyphusZheng/cchat",
+  "demoUrl": "https://cchat.chat",
+  "technologies": [
+    "React",
+    "MongoDB",
+    "Express",
+    "Node.js",
+    "Socket.io",
+    "TypeScript",
+    "TailwindCSS",
+    "daisyUI",
+    "Vite",
+    "JWT",
+    "OAuth"
+  ],
+  "features": [
+    "GitHub OAuth 2.0认证实现安全登录",
+    "Socket.io构建实时消息传输功能",
+    "亮/暗双主题切换",
+    "在线用户状态实时显示",
+    "Vite + daisyUI + Tailwind CSS响应式界面",
+    "JWT身份验证",
+    "Nginx服务器部署"
+  ],
+  "longDescription": "# CChat 实时聊天应用\n\n基于MERN技术栈（MongoDB, Express, React, Node.js）开发的现代化即时通讯系统，集成GitHub OAuth 2.0认证实现安全登录，采用Socket.io构建实时消息传输功能。\n\n## 核心功能\n\n- **安全认证**：集成GitHub OAuth 2.0实现安全可靠的用户登录\n- **实时通讯**：基于Socket.io的高性能实时消息传输\n- **用户体验**：支持亮/暗双主题切换，在线用户状态实时显示\n- **响应式设计**：使用Vite + daisyUI + Tailwind CSS构建现代化界面\n\n## 技术实现\n\n- 前端使用React + TypeScript构建类型安全的UI组件\n- 使用Zustand进行状态管理\n- 后端通过Express + Node.js提供RESTful API\n- MongoDB数据库存储用户信息和消息历史\n- JWT进行身份验证和会话管理\n- 部署于Nginx服务器，提供高性能和可靠性\n\n该项目涵盖全栈开发全流程，包括环境变量配置、生产环境部署及性能优化。"
+}

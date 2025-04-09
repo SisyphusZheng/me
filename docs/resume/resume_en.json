@@ -1,0 +1,328 @@
+{
+  "resume": {
+    "basics": {
+      "name": "Zhi Zheng",
+      "label": "Frontend Engineer | Meta Frontend Certified",
+      "picture": "/assets/profile.jpg",
+      "email": "zhizheng@z-js.dev",
+      "phone": "13370765023",
+      "website": "https://air.js.org",
+      "summary": "MSc in Software Engineering student at University of Limerick, Ireland. Focused on modern frontend technology stack, specializing in React and Web Components. Proficient in MERN full-stack development with extensive experience in component library development and engineering practices. Meta Frontend certified developer with multiple projects included in the official Stencil Community ecosystem. CSDN blog with 7 articles featured in Songshan Lake Developer Community and Open Atom, 240K+ views and 1K+ followers.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "Limerick, Ireland",
+        "countryCode": "IE"
+      },
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "SisyphusZheng",
+          "url": "https://github.com/SisyphusZheng"
+        },
+        {
+          "network": "Dev.to",
+          "username": "SisyphusZheng",
+          "url": "https://dev.to/SisyphusZheng"
+        },
+        {
+          "network": "CSDN",
+          "username": "alien",
+          "url": "https://alien.blog.csdn.net"
+        }
+      ]
+    },
+    "education": [
+      {
+        "institution": "University of Limerick, Ireland",
+        "area": "Software Engineering",
+        "studyType": "Master's Degree",
+        "startDate": "2023-09-01",
+        "endDate": "2026-01-31",
+        "gpa": "Outstanding Master Scholarship Recipient",
+        "courses": [
+          "Software Quality",
+          "Software Evolution",
+          "HCI (Human-Computer Interaction)",
+          "Project Management",
+          "Software Architecture"
+        ]
+      },
+      {
+        "institution": "Chongqing University of Urban Technology",
+        "area": "Software Engineering",
+        "studyType": "Bachelor's Degree",
+        "startDate": "2018-09-01",
+        "endDate": "2022-06-30",
+        "gpa": "Outstanding Graduate",
+        "courses": [
+          "Programming Techniques (92%)",
+          "Algorithm Analysis (97%)",
+          "Linux Fundamentals (91%)",
+          "Advanced Programming Techniques (91%)"
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Meta Frontend Developer Certification",
+        "issuer": "Meta (Facebook)",
+        "date": "2023-12-01",
+        "url": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Frontend Development",
+        "level": "Advanced",
+        "keywords": [
+          "TypeScript",
+          "React",
+          "React Hooks",
+          "Zustand",
+          "Axios",
+          "TailwindCSS",
+          "daisyUI",
+          "Vite",
+          "Web Components",
+          "StencilJS"
+        ]
+      },
+      {
+        "name": "Backend Development",
+        "level": "Intermediate",
+        "keywords": [
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "RESTful API",
+          "JWT",
+          "OAuth",
+          "Socket.io",
+          "Postman"
+        ]
+      },
+      {
+        "name": "Engineering",
+        "level": "Intermediate",
+        "keywords": [
+          "Monorepo",
+          "Git",
+          "Git Flow",
+          "GitHub Actions",
+          "Docker",
+          "Vite",
+          "Linux(Gentoo)",
+          "Nginx",
+          "Bash/Fish",
+          "pnpm workspace",
+          "Tree Shaking"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Chinese",
+        "fluency": "Native"
+      },
+      {
+        "language": "English",
+        "fluency": "Fluent"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Air Component Library",
+        "description": "Modern Web Components library built with StencilJS and TailwindCSS",
+        "highlights": [
+          "Used Figma for UI/UX design, achieving high integration between design system and component development",
+          "Configured CI/CD automated deployment workflow via GitHub Actions",
+          "Integrated Jest for unit tests and component snapshot testing",
+          "Project included in the official Stencil Community ecosystem",
+          "Providing developers with out-of-the-box high-quality Web Components solutions",
+          "Developed standardized Web Components for cross-framework reuse"
+        ],
+        "keywords": [
+          "StencilJS",
+          "TypeScript",
+          "TailwindCSS",
+          "Web Components",
+          "Figma",
+          "GitHub Actions",
+          "Jest"
+        ],
+        "url": "https://air.js.org",
+        "roles": ["Main Developer"],
+        "type": "Open Source Project"
+      },
+      {
+        "name": "Real-time Chat Application",
+        "description": "Instant messaging system developed with MERN technology stack",
+        "highlights": [
+          "Integrated GitHub OAuth 2.0 authentication for secure login",
+          "Built real-time message transmission using Socket.io",
+          "Implemented core features like light/dark theme switching and real-time online user status",
+          "Built responsive UI with Vite + daisyUI + Tailwind CSS",
+          "Implemented JWT for backend authentication and deployed on Nginx server",
+          "Designed MongoDB data models and aggregation queries",
+          "Developed RESTful API interface specifications",
+          "Project covers the full-stack development process, including environment variable configuration, production deployment, and performance optimization"
+        ],
+        "keywords": [
+          "React",
+          "MongoDB",
+          "Express",
+          "Node.js",
+          "Socket.io",
+          "OAuth",
+          "JWT",
+          "Vite",
+          "TailwindCSS",
+          "daisyUI",
+          "Zustand",
+          "Axios"
+        ],
+        "url": "https://cchat.chat",
+        "roles": ["Full-stack Developer"],
+        "type": "Personal Project"
+      },
+      {
+        "name": "FreshPress",
+        "description": "Modern static site generator",
+        "highlights": [
+          "Provides clean API and easy-to-use CLI",
+          "Supports plugin and theme systems",
+          "Builds high-performance static websites",
+          "Using pnpm workspace for Monorepo management",
+          "Configured Vite to implement Tree Shaking solutions",
+          "Deployed on Linux server"
+        ],
+        "keywords": [
+          "TypeScript",
+          "Static Site Generator",
+          "Vite",
+          "pnpm",
+          "Linux",
+          "Nginx"
+        ],
+        "roles": ["Main Developer"],
+        "type": "Personal Project",
+        "url": "https://zhizheng.profilo"
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "University of Limerick Computer Society",
+        "position": "Member",
+        "website": "",
+        "startDate": "2023-09-01",
+        "endDate": "2025-01-31",
+        "summary": "Volunteer at European PythonCon conference, IrlCPC (Irish Programming Contest) 2024 training"
+      },
+      {
+        "organization": "College Software Society and Computer Society",
+        "position": "Software Society President, Computer Society Department Head",
+        "website": "",
+        "startDate": "2020-09-01",
+        "endDate": "2021-06-30",
+        "summary": "Assisted with CCPC & Blue Bridge Cup training, campus WebDev competition training, studio work"
+      }
+    ],
+    "awards": [
+      {
+        "title": "University of Limerick Outstanding Master Admission Scholarship",
+        "date": "2023-09-01",
+        "awarder": "University of Limerick, Ireland",
+        "summary": "Stood out in competitive international student applications to receive the university's outstanding admission scholarship"
+      },
+      {
+        "title": "Chongqing Outstanding Graduate",
+        "date": "2022-06-01",
+        "awarder": "Chongqing Education Commission",
+        "summary": "Selected as an Outstanding Graduate of Chongqing based on comprehensive performance and academic achievements"
+      },
+      {
+        "title": "9th CCPC Chongqing Third Prize",
+        "date": "2018-06-01",
+        "awarder": "CCPC Committee",
+        "summary": "Demonstrated excellent programming and problem-solving abilities in the programming contest"
+      },
+      {
+        "title": "Chongqing University of Urban Technology Outstanding Graduate",
+        "date": "2022-06-01",
+        "awarder": "Chongqing University of Urban Technology",
+        "summary": "Excellent performance during university studies with comprehensive qualities"
+      },
+      {
+        "title": "Chongqing University of Urban Technology Outstanding Youth League Cadre and Student Cadre",
+        "date": "Four consecutive years",
+        "awarder": "Chongqing University of Urban Technology",
+        "summary": "Long-term leadership positions in student organizations with outstanding contributions"
+      },
+      {
+        "title": "Chongqing University of Urban Technology Comprehensive Scholarship",
+        "date": "Three consecutive years",
+        "awarder": "Chongqing University of Urban Technology",
+        "summary": "Excellent academic performance and top ranking in comprehensive evaluation"
+      }
+    ],
+    "publications": [
+      {
+        "name": "Technical Blog",
+        "publisher": "CSDN",
+        "releaseDate": "",
+        "website": "https://alien.blog.csdn.net",
+        "summary": "7 articles included in Songshan Lake Developer Community and Open Atom, with 240K+ views and 1K+ followers. Content covers frontend development, Web Components design, full-stack application architecture, and more."
+      }
+    ],
+    "contributions": [
+      {
+        "name": "OpenWebComponent",
+        "description": "PR#2828 merged into OpenWebComponent project, fixing router module compatibility issues and optimizing the toolchain",
+        "url": "https://github.com/open-wc/open-wc/pull/2828"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Web Frontend Technologies",
+        "keywords": [
+          "Web Components",
+          "React Ecosystem",
+          "Frontend Engineering",
+          "UI/UX Design"
+        ]
+      },
+      {
+        "name": "Open Source Contributions",
+        "keywords": [
+          "Component Library Development",
+          "Documentation Contributions",
+          "Bug Fixing"
+        ]
+      },
+      {
+        "name": "Full Stack Development",
+        "keywords": [
+          "MERN Stack",
+          "Real-time Applications",
+          "Authentication Systems"
+        ]
+      }
+    ]
+  },
+  "pageTitle": "Resume - zhizheng's profilo",
+  "pageDescription": "Zhi Zheng's Professional Resume - Frontend Engineer",
+  "printResume": "Print Resume",
+  "sections": {
+    "education": "Education",
+    "certifications": "Certifications",
+    "skills": "Professional Skills",
+    "languages": "Languages",
+    "projects": "Projects",
+    "volunteer": "Volunteer Experience",
+    "awards": "Awards & Honors",
+    "publications": "Publications",
+    "contributions": "Open Source Contributions",
+    "interests": "Professional Interests"
+  }
+}

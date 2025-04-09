@@ -1,0 +1,169 @@
+{
+  "site": {
+    "title": "zhizheng's profilo",
+    "description": "前端工程师，专注于React和Web Components开发"
+  },
+  "nav": {
+    "home": "首页",
+    "blog": "博客",
+    "projects": "项目",
+    "resume": "简历",
+    "about": "关于"
+  },
+  "search": {
+    "placeholder": "搜索内容...",
+    "noResults": "暂无相关结果",
+    "searching": "搜索中...",
+    "results": "搜索结果"
+  },
+  "blog": {
+    "title": "技术博客",
+    "description": "CSDN博客已有7篇收录在松山湖开发者社区与开放原子，浏览量240K+，粉丝1K+",
+    "readMore": "阅读全文",
+    "publishedOn": "发布于",
+    "tags": "标签",
+    "relatedPosts": "相关文章"
+  },
+  "project": {
+    "title": "项目展示",
+    "description": "我的开源贡献和个人作品",
+    "viewProject": "查看项目",
+    "sourceCode": "源代码",
+    "liveDemo": "在线演示",
+    "technologies": "使用技术",
+    "features": "主要功能"
+  },
+  "resume": {
+    "title": "个人简历",
+    "description": "前端工程师，Meta前端认证，现就读于爱尔兰利莫瑞克大学",
+    "download": "下载PDF",
+    "print": "打印简历",
+    "experience": "工作经历",
+    "education": "教育背景",
+    "skills": "专业技能",
+    "languages": "语言能力",
+    "certifications": "专业认证",
+    "contact": "联系方式"
+  },
+  "footer": {
+    "copyright": "© {year} 郑治 版权所有",
+    "poweredBy": "由郑治开发",
+    "links": "快速导航",
+    "socialMedia": "社交媒体",
+    "about": "关于本站",
+    "resources": "相关资源",
+    "subscribe": "订阅更新",
+    "emailPlaceholder": "输入您的邮箱",
+    "subscribeCTA": "立即订阅"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出错了",
+    "backToHome": "返回首页",
+    "viewAll": "查看全部",
+    "darkMode": "暗色模式",
+    "lightMode": "亮色模式"
+  },
+  "hero": {
+    "title": "郑治 - 前端工程师",
+    "subtitle": "爱尔兰利莫瑞克大学软件工程硕士在读，擅长React和Web Components开发",
+    "blog": "阅读博客",
+    "projects": "探索项目",
+    "avatarAlt": "个人头像",
+    "badgeText": "前端工程师",
+    "newBadgeText": "Meta前端认证"
+  },
+  "features": {
+    "title": "专业技能",
+    "performance": {
+      "title": "前端开发",
+      "description": "使用TypeScript、React Hooks和函数式组件，实现类型安全的前端架构，基于TailwindCSS构建响应式UI界面"
+    },
+    "security": {
+      "title": "后端开发",
+      "description": "搭建高并发Node.js服务，设计MongoDB数据模型和实现JWT身份认证系统，开发RESTful API接口规范"
+    },
+    "development": {
+      "title": "组件开发",
+      "description": "开发标准化Web Components实现跨框架复用，基于StencilJS构建高性能组件库，收录于Stencil Community"
+    },
+    "i18n": {
+      "title": "工程化能力",
+      "description": "配置GitHub Actions实现CI/CD自动化流程，使用pnpm workspace管理Monorepo，熟悉Linux开发环境"
+    },
+    "rapidDev": {
+      "title": "学术背景",
+      "description": "利莫瑞克大学软件工程硕士在读，曾获爱尔兰利莫瑞克大学优秀硕士录取奖学金，重庆市优秀毕业生"
+    },
+    "pluginSystem": {
+      "title": "竞赛经历",
+      "description": "第九届CCPC重庆市三等奖，参与欧洲PythonCon会议志愿者，IrlCPC(爱尔兰程序设计)2024集训"
+    },
+    "themeSupport": {
+      "title": "社团活动",
+      "description": "利莫瑞克大学计算机社团成员，曾任学院软件社团社长、计算机社团部长，组织CCPC培训"
+    }
+  },
+  "projectShowcase": {
+    "title": "精选项目",
+    "viewDemo": "查看演示",
+    "githubRepo": "GitHub仓库",
+    "technologies": "技术栈",
+    "keyFeatures": "核心特性"
+  },
+  "quickStart": {
+    "title": "关于我",
+    "install": {
+      "title": "开发方向",
+      "description": "专注于现代前端技术栈开发，擅长React和Web Components方向，熟悉MERN全栈开发"
+    },
+    "configure": {
+      "title": "技术贡献",
+      "description": "PR#2828合并到OpenWebComponent项目，修复路由模块兼容性问题，优化工具链"
+    },
+    "deploy": {
+      "title": "Meta认证",
+      "description": "已获得Meta前端开发者认证，拥有专业的前端开发技能与知识"
+    },
+    "getStarted": "查看我的简历",
+    "installDeno": {
+      "title": "前端技术栈",
+      "code": "React, TypeScript, TailwindCSS, StencilJS, Web Components"
+    },
+    "createProject": {
+      "title": "后端技术栈",
+      "code": "Node.js, Express, MongoDB, JWT, OAuth, Socket.io"
+    },
+    "startDev": {
+      "title": "工程化工具",
+      "code": "GitHub Actions, Vite, pnpm, Monorepo, Docker, Nginx"
+    }
+  },
+  "latestBlog": {
+    "title": "技术博文",
+    "readMore": "阅读全文",
+    "noPosts": "暂无博客文章"
+  },
+  "latest": {
+    "title": "最新动态",
+    "blog": "近期文章",
+    "project": "最新项目",
+    "noBlog": "还没有博客文章，开始创作吧！",
+    "noProject": "暂无项目展示，添加您的第一个项目"
+  },
+  "read": {
+    "more": "继续阅读"
+  },
+  "view": {
+    "project": "查看项目"
+  },
+  "contact": {
+    "title": "联系我",
+    "subtitle": "有任何问题或合作意向？请通过邮箱 zhizheng@z-js.dev 或电话 13370765023 与我联系",
+    "button": "发送邮件"
+  },
+  "error": {
+    "title": "页面未找到",
+    "backHome": "返回首页"
+  }
+}

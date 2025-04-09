@@ -1,0 +1,26 @@
+{
+  "id": "air",
+  "slug": "air",
+  "title": "Air Component Library",
+  "description": "基于StencilJS与TailwindCSS构建的现代化Web Components组件库",
+  "image": "https://air.js.org",
+  "githubUrl": "https://github.com/SisyphusZheng/air",
+  "demoUrl": "https://air.js.org",
+  "technologies": [
+    "StencilJS",
+    "TypeScript",
+    "Web Components",
+    "TailwindCSS",
+    "Figma",
+    "Jest"
+  ],
+  "features": [
+    "框架无关的Web Components",
+    "使用TailwindCSS构建响应式UI界面",
+    "Figma设计系统与组件高度统一",
+    "GitHub Actions自动化CI/CD流程",
+    "Jest单元测试与组件快照测试",
+    "Stencil Community官方生态项目"
+  ],
+  "longDescription": "# Air Web Components 组件库\n\nAir是一个基于StencilJS与TailwindCSS构建的现代化Web Components组件库，采用Figma进行UI/UX设计，实现设计系统与组件开发的高度统一。\n\n## 特点\n\n- **框架无关**：使用标准Web Components，可在任何框架中使用\n- **响应式设计**：基于TailwindCSS构建的现代UI界面\n- **类型安全**：全程TypeScript开发\n- **性能优先**：轻量级设计，优化性能\n- **测试覆盖**：集成Jest进行单元测试与组件快照测试\n\n## 技术实现\n\n- 使用StencilJS编译生成高性能Web Components\n- 采用TailwindCSS实现响应式设计\n- 通过GitHub Actions配置CI/CD自动化部署流程\n- 与Figma设计系统深度集成\n\n该项目已收录于Stencil Community官方生态，为开发者提供开箱即用的高质量Web Components解决方案。"
+}
